@@ -21,6 +21,9 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
+HERE IS THE SCREENSHOT OF THE PROJECT
+https://github.com/EmAce12/Ace-card-flutter/blob/main/Screenshot/Screenshot%202023-01-07%20at%2001.56.14.png
+
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
