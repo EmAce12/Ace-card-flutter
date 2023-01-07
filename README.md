@@ -22,7 +22,8 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to read and use Flutter Documentation
 
 HERE IS THE SCREENSHOT OF THE PROJECT
-https://github.com/EmAce12/Ace-card-flutter/blob/main/Screenshot/Screenshot%202023-01-07%20at%2001.56.14.png
+![image](https://user-images.githubusercontent.com/54309095/211129197-e5477cad-ffe6-4d5e-a685-546c43f7c028.png)
+
 
 
 
